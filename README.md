@@ -15,7 +15,7 @@ Currently exploring **Frontend and Full-Stack Developer opportunities in Japan**
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyiPhyuKhant&layout=compact&langs_count=8&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KyiPhyuKhant&theme=default)
 
 ### 🚀 Featured Projects
 
