@@ -13,6 +13,10 @@ Currently exploring **Frontend and Full-Stack Developer opportunities in Japan**
 - **CMS & E-commerce:** WordPress, Shopify, Zen Cart, EC-CUBE
 - **Tools:** Git, Docker, GitHub Actions
 
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyiPhyuKhant&layout=compact&langs_count=8&hide_border=true)
+
 ### 🚀 Featured Projects
 
 - [Expense Tracker](https://github.com/KyiPhyuKhant/expense-tracker) — React, TypeScript
