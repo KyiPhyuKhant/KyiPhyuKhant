@@ -35,25 +35,17 @@ Open to **Frontend and Full-Stack Developer opportunities in Japan.**
 
 ---
 
-<h3>GitHub Activity</h3>
+### GitHub Activity
 
-<table>
-  <tr>
-    <td width="55%" align="center">
-      <img
-        src="https://github-readme-stats.shion.dev/api?username=KyiPhyuKhant&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=false"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td width="45%" align="center">
-      <img
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=KyiPhyuKhant&theme=default&hide_border=true&layout=compact"
-        alt="Most Used Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-![Profile Views](https://komarev.com/ghpvc/?username=KyiPhyuKhant&color=2563EB&style=flat-square)
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=KyiPhyuKhant&theme=default&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs"
+    width="52%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KyiPhyuKhant&theme=default"
+    width="46%"
+    alt="Top Languages by Commit"
+  />
+</p>
